@@ -1,0 +1,3 @@
+Hello there,
+Contact us at support@example.com or admin@domain.org.
+Thank you!
