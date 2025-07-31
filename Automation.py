@@ -16,4 +16,4 @@ def extract_emails(input_file, output_file):
     print(f"Extracted {len(emails)} email(s) to '{output_file}'.")
 
 # Example usage
-extract_emails('codeAlpha_projects/sample.txt', 'codeAlpha_projects/emails.txt')
+extract_emails('sample.txt', 'emails.txt')
